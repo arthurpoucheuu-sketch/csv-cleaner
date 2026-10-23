@@ -1,6 +1,7 @@
-# csv-cleaner
+# ccv-cleaner
 
-Small tool to clean CSV files.
+Command-line
+tool that cleans messy CSV files: empty rows, extra spaces, duplicates.
 ## Cleaning steps
 1. Drop empty rows
 2. Strip whitespace in cells
