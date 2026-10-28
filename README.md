@@ -11,3 +11,4 @@ tool that cleans messy CSV files: empty rows, extra spaces, duplicates.
 2. Strip whitespace in cells
 3. Capitalise city names
 4. Remove duplicate rows
+###
